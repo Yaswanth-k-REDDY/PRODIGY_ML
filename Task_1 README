@@ -1,0 +1,19 @@
+#House Price Prediction using Linear Regression
+
+## Objective
+Predict house prices using house features.
+
+## Dataset
+House Prices Dataset
+
+## Features Used
+- GrLivArea
+- BedroomAbvGr
+- FullBath
+
+## Algorithm
+Linear Regression
+
+## Evaluation
+- R² Score
+- Mean Squared Error
